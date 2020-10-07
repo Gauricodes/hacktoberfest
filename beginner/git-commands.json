@@ -89,10 +89,14 @@
     "title": "git archive",
     "description": "Create an archive of files from a named tree."
     
-  }
+  },
   {
     "title": "git branch -a",
     "description": "The git init command display all list of branches and also shows active branch from list."
+  },
+  {
+    "title": "git push origin master",
+    "description": "Send changes to the master branch of your remote repository."
   },
 ]
 
