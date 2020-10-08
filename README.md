@@ -72,4 +72,8 @@ Also, add your github username in the <a href="https://github.com/Open-Source-Co
 * **Shubham singla** - [shubhamsingla807](https://github.com/shubhamsingla807)
 * **Amitkumar**  - [UltimateBrains](https://github.com/UltimateBrains)
 * **Vani Singh** - [vanisingh-24](https://github.com/vanisingh-24)
+* **gauricodes**
 
+Stay tuned for future endevours.
+
+Thank you! and contribute to open source.
